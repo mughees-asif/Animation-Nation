@@ -1453,12 +1453,20 @@ let cards = [
 	      author: "Rahulkumar Jha",
 	      githubLink: "https://github.com/Rahul240499"
      },
-  {
-	artName: "Ghost Stealth Text",
-	pageLink: "./Art/Alara Joel/index.html",
-	imageLink: "./Art/Alara Joel/stealth ghost.png",
-	author: "Alara Joel",
-	githubLink: "https://github.com/stealthman22"
+ 	 {
+		 artName: "Ghost Stealth Text",
+		 pageLink: "./Art/Alara Joel/index.html",
+		 imageLink: "./Art/Alara Joel/stealth ghost.png",
+		 author: "Alara Joel",
+		 githubLink: "https://github.com/stealthman22"
+	 },
+	{
+		artName: 'Sample landing page.',
+		pageLink: './Art/mugheesTest/test.html',
+		imageLink: './Art/mugheesTest/img/server_2_2.png',
+		author: 'Mughees Asif',
+		githubLink: 'https://github.com/mughees-asif'
+	},
 }
 ];
 
